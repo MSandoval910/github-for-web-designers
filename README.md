@@ -6,4 +6,4 @@ Hi! Welcome to the companion reference to my lynda.com Github for Web Designers 
  
 ##[View the companion reference site] (-http://simpleprimate.com/github-for-web-designers/-)
 
-##thisis my README for my github desktop client!
+##this is my README for my github desktop client!
